@@ -1,0 +1,6 @@
+{
+  "name": "Jailjawn.GitHub.io",
+  "tagline": "Github Pages Website for the JailJawn Project",
+  "body": "### Welcome to JailJawn.\r\nJailJawn creates a graph from Philadelphia's prison population data.  The raw data is scraped from the web, provided as \"Daily Census\" on [phila.gov/prisons](http://www.phila.gov/prisons/Pages/default.aspx).  The goal of this project is to save this data over time, as the website from which the data is pulled provides no archived data, and provide a visualization to easily understand the data.  The data scraping has been automated to retrieve this data daily and store it using Firebase.  \r\n### Current Efforts\r\nCurrently, coding efforts are focused on creating the graph from this data using amCharts.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
